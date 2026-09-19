@@ -19,7 +19,7 @@ SmartVision-AI-Surveillance-Suite/
 - Motion-triggered event recording architecture with pre-event buffering
 - Modular surveillance domains for highway, traffic, city security, retail, industrial safety, parking, railway, campus, home, and wildlife use cases
 
-## Run Locally
+##  Run Locally
 
 Open PowerShell from the repository root:
 
